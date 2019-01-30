@@ -1,0 +1,19 @@
+{
+  "name": "ssrfetch",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "babel-preset-react": "^6.24.1",
+    "es6-promise": "^4.2.5",
+    "isomorphic-fetch": "^2.2.1",
+    "node-fetch": "^2.3.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react_ujs": "^2.4.4"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.2.5",
+    "webpack-dev-server": "2.11.2"
+  }
+}
